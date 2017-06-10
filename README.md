@@ -11,7 +11,7 @@ See Live Page : [Live site - Portfolio](https://aldefy.github.io/FullStack_ND_P2
 
 ## Creator
 
-**Adit Lal
+### Adit Lal
 
 * <https://twitter.com/aditlal>
 * <https://github.com/aldefy>
